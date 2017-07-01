@@ -1,0 +1,1256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2ce48b6-d47a-404c-91cd-dca7ed7747c0" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="passport.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/config/passport.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="33" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.handlebars" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/home/index.handlebars">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/config/database.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="4" column="36" lean-forward="false" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#40#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="site.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/styles/site.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.handlebars" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/layouts/main.handlebars">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="49" lean-forward="false" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/data/User.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" column="45" lean-forward="false" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+              <folding>
+                <element signature="e#0#40#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="express.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/config/express.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="546">
+              <caret line="28" column="24" lean-forward="false" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#40#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gulpfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server/controllers/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#40#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Handlebars File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/config/settings.js" />
+        <option value="$PROJECT_DIR$/config/database.js" />
+        <option value="$PROJECT_DIR$/config/express.js" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/server/controllers/home-controller.js" />
+        <option value="$PROJECT_DIR$/views/home/index.js" />
+        <option value="$PROJECT_DIR$/views/home/index.handlebars" />
+        <option value="$PROJECT_DIR$/server/config/routes.js" />
+        <option value="$PROJECT_DIR$/server/config/express.js" />
+        <option value="$PROJECT_DIR$/server/utilities/encryption.js" />
+        <option value="$PROJECT_DIR$/server/data/User.js" />
+        <option value="$PROJECT_DIR$/server/config/database.js" />
+        <option value="$PROJECT_DIR$/public/styles/site.css" />
+        <option value="$PROJECT_DIR$/views/layouts/main.handlebars" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/server/controllers/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$USER_HOME$/Desktop/yo_express/gulpfile.js</gulpfile-path>
+        <tasks>
+          <GulpTaskState>
+            <task-name>develop</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="develop" />
+            </dependencies>
+            <task-name>default</task-name>
+          </GulpTaskState>
+        </tasks>
+      </GulpfileState>
+    </gulpfiles>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="1932" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyChatApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyChatApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyChatApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyChatApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyChatApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyChatApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyChatApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyChatApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utilities" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyChatApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyChatApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyChatApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyChatApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyChatApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyChatApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyChatApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyChatApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="E:/Programing/nodejs/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="C:\Users\boris\Desktop\yo_express\node_modules\gulp" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\boris\WebstormProjects\MyChatApp" />
+      <recent name="C:\Users\boris\WebstormProjects\MyChatApp\server\config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\boris\WebstormProjects\MyChatApp" />
+      <recent name="C:\Users\boris\WebstormProjects\MyChatApp\server" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2ce48b6-d47a-404c-91cd-dca7ed7747c0" name="Default" comment="" />
+      <created>1498941662034</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1498941662034</updated>
+      <workItem from="1498941663617" duration="243000" />
+      <workItem from="1498941927049" duration="647000" />
+      <workItem from="1498942870159" duration="19000" />
+      <workItem from="1498942890227" duration="210000" />
+      <workItem from="1498943108689" duration="5077000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6196000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="0" width="1932" height="1050" extended-state="0" />
+    <layout>
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24986738" sideWeight="0.5046948" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986738" sideWeight="0.49530515" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986738" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app.js" />
+    <entry file="file://$PROJECT_DIR$/app/controllers/home.js" />
+    <entry file="file://$PROJECT_DIR$/app.js" />
+    <entry file="file://$PROJECT_DIR$/app/controllers/home.js" />
+    <entry file="file://$PROJECT_DIR$/public/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/config/config.js" />
+    <entry file="file://$PROJECT_DIR$/app/views/error.handlebars" />
+    <entry file="file://$PROJECT_DIR$/app/views/index.handlebars" />
+    <entry file="file://$PROJECT_DIR$/app/models/article.js" />
+    <entry file="file://$PROJECT_DIR$/app/controllers/home.js" />
+    <entry file="file://$PROJECT_DIR$/app.js" />
+    <entry file="uml://JavaScript-modules-diagram/C:/Users/boris/WebstormProjects/MyChatApp;C:/Users/boris/WebstormProjects/MyChatApp/app;C:/Users/boris/WebstormProjects/MyChatApp/app/controllers;C:/Users/boris/WebstormProjects/MyChatApp/app/controllers/home.js;C:/Users/boris/WebstormProjects/MyChatApp/app/models;C:/Users/boris/WebstormProjects/MyChatApp/app/models/article.js;C:/Users/boris/WebstormProjects/MyChatApp/app/views;C:/Users/boris/WebstormProjects/MyChatApp/app/views/layouts;C:/Users/boris/WebstormProjects/MyChatApp/app/views/partials;C:/Users/boris/WebstormProjects/MyChatApp/config;C:/Users/boris/WebstormProjects/MyChatApp/config/config.js;C:/Users/boris/WebstormProjects/MyChatApp/config/express.js;C:/Users/boris/WebstormProjects/MyChatApp/public;C:/Users/boris/WebstormProjects/MyChatApp/public/components;C:/Users/boris/WebstormProjects/MyChatApp/public/css;C:/Users/boris/WebstormProjects/MyChatApp/public/img;C:/Users/boris/WebstormProjects/MyChatApp/public/js;C:/Users/boris/WebstormProjects/MyChatApp/app.js;C:/Users/boris/WebstormProjects/MyChatApp/gulpfile.js;">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/../MyChatApp;C:/Users/boris/WebstormProjects/MyChatApp/app;C:/Users/boris/WebstormProjects/MyChatApp/app/controllers;C:/Users/boris/WebstormProjects/MyChatApp/app/controllers/home.js;C:/Users/boris/WebstormProjects/MyChatApp/app/models;C:/Users/boris/WebstormProjects/MyChatApp/app/models/article.js;C:/Users/boris/WebstormProjects/MyChatApp/app/views;C:/Users/boris/WebstormProjects/MyChatApp/app/views/layouts;C:/Users/boris/WebstormProjects/MyChatApp/app/views/partials;C:/Users/boris/WebstormProjects/MyChatApp/config;C:/Users/boris/WebstormProjects/MyChatApp/config/config.js;C:/Users/boris/WebstormProjects/MyChatApp/config/express.js;C:/Users/boris/WebstormProjects/MyChatApp/public;C:/Users/boris/WebstormProjects/MyChatApp/public/components;C:/Users/boris/WebstormProjects/MyChatApp/public/css;C:/Users/boris/WebstormProjects/MyChatApp/public/img;C:/Users/boris/WebstormProjects/MyChatApp/public/js;C:/Users/boris/WebstormProjects/MyChatApp/app.js;C:/Users/boris/WebstormProjects/MyChatApp/gulpfile.js;</OriginalElement>
+          <nodes>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/cursor/AggregationCursor.js#PromiseProvider#37;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/cursor/AggregationCursor.js#Readable#102;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/cursor/AggregationCursor.js#util#134;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/ES6Promise.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/gulp-nodemon/Gulpfile.js#gulp#4;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp-nodemon/Gulpfile.js#jshint#34;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp-nodemon/Gulpfile.js#nodemon#71;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp-nodemon/Gulpfile.js#stream#556;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/cursor/QueryCursor.js#PromiseProvider#37;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/cursor/QueryCursor.js#Readable#102;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/cursor/QueryCursor.js#eachAsync#134;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/cursor/QueryCursor.js#helpers#191;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/cursor/QueryCursor.js#util#233;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/drivers/browser/ReadPreference.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/drivers/node-mongodb-native/ReadPreference.js#mongodb#37;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/bin/_mocha#Mocha#269;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/bin/_mocha#fs#170;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/bin/_mocha#getOptions#421;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/bin/_mocha#mkdir#4913;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/bin/_mocha#mod#9177;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/bin/_mocha#path#142;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/bin/_mocha#program#106;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/bin/_mocha#program.reporter#7490;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/chai/lib/chai/utils/addChainableMethod.js#config#238;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/lib/chai/utils/addChainableMethod.js#flag#208;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/lib/chai/utils/addChainableMethod.js#transferFlags#160;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/chai/lib/chai/utils/addMethod.js#config#120;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/lib/chai/utils/addMethod.js#flag#848;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/chai/lib/chai/utils/addProperty.js#config#122;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/lib/chai/utils/addProperty.js#flag#157;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/supertest/lib/agent.js#Agent#46;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/supertest/lib/agent.js#Test#141;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/supertest/lib/agent.js#http#113;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/supertest/lib/agent.js#methods#79;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/aggregate.js#AggregationCursor#36;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/aggregate.js#PromiseProvider#99;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/aggregate.js#Query#152;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/aggregate.js#eachAsync#184;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/aggregate.js#util#240;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/aggregate.js#utils#268;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/examples/aggregate/aggregate.js#async#51;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/examples/aggregate/aggregate.js#mongoose#121;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/examples/aggregate/aggregate.js#person.js#155;</node>
+            <node x="" y="">$PROJECT_DIR$/app.js#config#38;C:/Users/boris/WebstormProjects/MyChatApp/app.js#express#6;C:/Users/boris/WebstormProjects/MyChatApp/app.js#express.js#450;C:/Users/boris/WebstormProjects/MyChatApp/app.js#glob#77;C:/Users/boris/WebstormProjects/MyChatApp/app.js#model#391;C:/Users/boris/WebstormProjects/MyChatApp/app.js#mongoose#103;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/gulp-livereload/examples/nodemon/app.js#app#18;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/examples/express/connection-sharing/app.js#express#5;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/examples/express/connection-sharing/app.js#mongoose#39;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/examples/express/connection-sharing/app.js#routes#185;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/application.js#Router#274;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/application.js#View#485;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/application.js#compileETag#557;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/application.js#compileQueryParser#614;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/application.js#compileTrust#672;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/application.js#debug#432;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/application.js#deprecate#709;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/application.js#finalhandler#230;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/application.js#flatten#753;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/application.js#http#515;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/application.js#merge#793;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/application.js#methods#308;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/application.js#middleware#342;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/application.js#query#389;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/application.js#resolve#839;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/application.js#setPrototypeOf#868;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/services/model/applyHooks.js#PromiseProvider#19;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/services/model/applyHooks.js#VersionError#91;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/services/model/applyMethods.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/services/model/applyStatics.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/array-flatten/array-flatten.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/types/array.js#Document#83;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/types/array.js#EmbeddedDocument#37;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/types/array.js#ObjectId#122;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/types/array.js#utils#160;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/schema/array.js#$exists#37;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/array.js#$type#82;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/array.js#EmbeddedDoc#469;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/array.js#Mixed#503;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/array.js#MongooseArray#424;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/array.js#SchemaType#123;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/array.js#Types#204;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/array.js#cast#535;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/array.js#castToNumber#642;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/array.js#geospatial#691;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/array.js#util#566;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/array.js#utils#594;</node>
+            <node x="" y="">$PROJECT_DIR$/app/models/article.js#mongoose#22;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/chai/lib/chai/interface/assert.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/chai/lib/chai/assertion.js#config#121;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/chai/lib/chai/core/assertions.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/node_modules/async/dist/async.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/lib/reporters/base.js#diff#78;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/reporters/base.js#ms#106;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/reporters/base.js#supportsColor#166;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/reporters/base.js#tty#52;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/reporters/base.js#utils#133;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/gulp-livereload/examples/basepath.js#gulp#19;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp-livereload/examples/basepath.js#less#47;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp-livereload/examples/basepath.js#livereload#80;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/lib/interfaces/bdd.js#Test#52;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/interfaces/bdd.js#common#604;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/drivers/browser/binary.js#Binary#47;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/drivers/node-mongodb-native/binary.js#Binary#47;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/schema/operators/bitwise.js#CastError#37;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/schema/boolean.js#SchemaType#71;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/boolean.js#utils#37;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/browser-entry.js#Mocha#159;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/browser-entry.js#index.js#125;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/browser.js#PromiseProvider#30;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/browser.js#document_provider.js#2162;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/browser.js#error.js#603;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/browser.js#index.js#1472;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/browser.js#schema.js#880;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/browser.js#schematype.js#1901;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/browser.js#utils.js#2011;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/browser.js#virtualtype.js#1632;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/debug/src/browser.js#debug.js#130;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/browserDocument.js#EventEmitter#96;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/browserDocument.js#InternalCache#335;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/browserDocument.js#MongooseError#132;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/browserDocument.js#NodeJSDocument#37;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/browserDocument.js#ObjectId#206;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/browserDocument.js#PromiseProvider#378;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/browserDocument.js#Schema#172;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/browserDocument.js#VersionError#446;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/browserDocument.js#embedded.js#3430;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/browserDocument.js#utils#250;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/error/browserMissingSchema.js#MongooseError#37;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/types/buffer.js#Binary#46;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/types/buffer.js#utils#80;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/schema/buffer.js#MongooseBuffer#148;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/buffer.js#SchemaType#180;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/buffer.js#document.js#1721;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/buffer.js#handleBitwiseOperator#37;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/buffer.js#utils#97;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodemon/lib/utils/bus.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/cast.js#StrictModeError#37;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/cast.js#Types#86;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/cast.js#util#125;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/cast.js#utils#153;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/error/cast.js#MongooseError#37;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/error/cast.js#util#81;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/services/query/castUpdate.js#StrictModeError#19;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/services/query/castUpdate.js#utils#72;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/chai/chai.js#AssertionError#113878;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/chai.js#Buffer#148041;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/chai.js#addChainableMethod#126658;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/chai.js#addMethod#126391;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/chai.js#addProperty#126321;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/chai.js#assert#2162;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/chai.js#assertion#1769;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/chai.js#chai.js#862;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/chai.js#config#1662;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/chai.js#core#1867;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/chai.js#eql#147729;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/chai.js#expect#1962;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/chai.js#expectTypes#125427;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/chai.js#flag#143479;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/chai.js#getActual#116871;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/chai.js#getEnumerableProperties#127455;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/chai.js#getMessage#125503;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/chai.js#getName#127371;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/chai.js#getPathInfo#121745;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/chai.js#getPathValue#126015;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/chai.js#getProperties#127407;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/chai.js#hasProperty#118814;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/chai.js#index.js#1195;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/chai.js#inspect#137342;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/chai.js#objDisplay#116945;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/chai.js#overwriteChainableMethod#126766;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/chai.js#overwriteMethod#126563;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/chai.js#overwriteProperty#126475;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/chai.js#should#2062;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/chai.js#test#125289;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/chai.js#transferFlags#107251;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/chai.js#type#147941;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/chai.js#util#1273;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/chai/lib/chai.js#assert#1219;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/lib/chai.js#assertion#826;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/lib/chai.js#config#719;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/lib/chai.js#core#924;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/lib/chai.js#expect#1019;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/lib/chai.js#index.js#252;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/lib/chai.js#should#1119;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/lib/chai.js#util#330;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/collection.js#EventEmitter#52;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/collection.js#STATES#88;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js#Collection#104;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js#MongooseCollection#37;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js#inspect#6581;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js#utils#139;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/services/common.js#ObjectId#52;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/services/common.js#flatten#127;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/services/common.js#modifiedPaths#154;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/services/common.js#utils#97;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/glob/common.js#isAbsolute#418;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/glob/common.js#minimatch#381;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/glob/common.js#path#354;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/lib/interfaces/common.js#Suite#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/gulp/lib/completion.js#fs#19;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp/lib/completion.js#path#43;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nyc/lib/config-util.js#Yargs#171;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/lib/config-util.js#arrify#6;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/lib/config-util.js#findUp#93;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/lib/config-util.js#fs#39;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/lib/config-util.js#instrument.js#7692;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/lib/config-util.js#path#64;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/lib/config-util.js#testExclude#127;</node>
+            <node x="" y="">$PROJECT_DIR$/config/config.js#path#4;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/chai/lib/chai/config.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/connection.js#Collection#231;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/connection.js#EventEmitter#84;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/connection.js#MongooseError#324;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/connection.js#PromiseProvider#392;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/connection.js#STATES#281;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/connection.js#Schema#197;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/connection.js#mongodb#445;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/connection.js#muri#364;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/connection.js#util#479;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/connection.js#utils#37;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js#DisconnectedError#279;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js#MongooseConnection#37;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js#STATES#196;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js#mongo#91;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js#o#6252;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/connectionstate.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/lib/context.js#JSON#52;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/gulp-livereload/examples/custom-port.js#gulp#19;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp-livereload/examples/custom-port.js#less#47;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp-livereload/examples/custom-port.js#livereload#80;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/schema/date.js#MongooseError#37;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/date.js#SchemaType#112;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/date.js#utils#78;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/debug/src/debug.js#index.js#354;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/types/decimal128.js#Decimal128#149;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/schema/decimal128.js#Decimal128Type#144;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/decimal128.js#SchemaType#63;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/decimal128.js#document.js#1564;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/decimal128.js#utils#197;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/error/disconnected.js#MongooseError#37;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/services/model/discriminator.js#utils#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/error/divergentArray.js#MongooseError#38;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/examples/doc-methods.js#mongoose#5;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/lib/reporters/doc.js#Base#52;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/reporters/doc.js#utils#82;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/document.js#EventEmitter#52;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/document.js#InternalCache#574;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/document.js#MixedSchema#128;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/document.js#MongooseError#88;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/document.js#ObjectExpectedError#207;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/document.js#PromiseProvider#686;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/document.js#Schema#173;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/document.js#StrictModeError#268;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/document.js#ValidatorError#334;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/document.js#array.js#22455;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/document.js#documentarray.js#42204;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/document.js#embedded.js#22151;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/document.js#flatten#801;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/document.js#hooks#650;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/document.js#inspect#492;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/document.js#mpath#843;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/document.js#utils#378;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/document_provider.js#BrowserDocument#118;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/document_provider.js#Document#77;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/document_provider.web.js#BrowserDocument#77;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/types/documentarray.js#Document#200;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/types/documentarray.js#MongooseArray#37;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/types/documentarray.js#ObjectId#77;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/types/documentarray.js#ObjectIdSchema#115;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/types/documentarray.js#utils#167;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/schema/documentarray.js#ArrayType#63;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/documentarray.js#CastError#99;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/documentarray.js#EventEmitter#156;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/documentarray.js#MongooseDocumentArray#192;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/documentarray.js#SchemaType#255;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/documentarray.js#Subdocument#298;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/documentarray.js#applyHooks#346;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/documentarray.js#discriminator#404;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/documentarray.js#util#468;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/documentarray.js#utils#496;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/lib/reporters/dot.js#Base#52;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/reporters/dot.js#inherits#93;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/readable-stream/duplex.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/node_modules/async/each.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/services/cursor/eachAsync.js#PromiseProvider#52;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/services/cursor/eachAsync.js#async#109;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/types/embedded.js#Document#69;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/types/embedded.js#EventEmitter#134;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/types/embedded.js#PromiseProvider#170;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/schema/embedded.js#$exists#52;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/embedded.js#EventEmitter#112;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/embedded.js#SchemaType#148;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/embedded.js#Subdocument#191;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/embedded.js#applyHooks#242;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/embedded.js#castToNumber#315;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/embedded.js#geospatial#364;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/error.js#DivergentArrayError#1338;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/error.js#OverwriteModelError#1198;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/error.js#VersionError#1141;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/error.js#cast.js#925;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/error.js#divergentArray.js#1374;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/error.js#messages.js#770;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/error.js#missingSchema.js#1304;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/error.js#notFound.js#988;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/error.js#overwriteModel.js#1234;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/error.js#validation.js#1049;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/error.js#validator.js#1111;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/error.js#version.js#1170;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/schema/operators/exists.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/chai/lib/chai/interface/expect.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/chai/lib/chai/utils/expectTypes.js#AssertionError#468;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/lib/chai/utils/expectTypes.js#flag#517;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/lib/chai/utils/expectTypes.js#type#547;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/lib/interfaces/exports.js#Suite#52;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/interfaces/exports.js#Test#85;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express-handlebars/lib/express-handlebars.js#Handlebars#267;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express-handlebars/lib/express-handlebars.js#Promise#180;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express-handlebars/lib/express-handlebars.js#fs#307;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express-handlebars/lib/express-handlebars.js#glob#233;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express-handlebars/lib/express-handlebars.js#path#348;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express-handlebars/lib/express-handlebars.js#utils#383;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/express.js#EventEmitter#233;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/express.js#Route#349;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/express.js#Router#388;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/express.js#index.js#1513;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/express.js#mixin#269;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/express.js#proto#311;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/express.js#query.js#1465;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/express.js#req#422;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/express.js#res#454;</node>
+            <node x="" y="">$PROJECT_DIR$/config/express.js#bodyParser#184;C:/Users/boris/WebstormProjects/MyChatApp/config/express.js#compress#225;C:/Users/boris/WebstormProjects/MyChatApp/config/express.js#controller#1227;C:/Users/boris/WebstormProjects/MyChatApp/config/express.js#cookieParser#139;C:/Users/boris/WebstormProjects/MyChatApp/config/express.js#exphbs#313;C:/Users/boris/WebstormProjects/MyChatApp/config/express.js#express#4;C:/Users/boris/WebstormProjects/MyChatApp/config/express.js#favicon#67;C:/Users/boris/WebstormProjects/MyChatApp/config/express.js#glob#38;C:/Users/boris/WebstormProjects/MyChatApp/config/express.js#logger#107;C:/Users/boris/WebstormProjects/MyChatApp/config/express.js#methodOverride#264;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/chai/lib/chai/utils/flag.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/examples/geospatial/geoJSONSchema.js#mongoose#37;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/examples/geospatial/geoJSONexample.js#async#50;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/examples/geospatial/geoJSONexample.js#geoJSONSchema.js#154;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/examples/geospatial/geoJSONexample.js#mongoose#120;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/schema/operators/geospatial.js#SchemaArray#323;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/operators/geospatial.js#castArraysOfNumbers#59;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/operators/geospatial.js#castToNumber#120;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/examples/geospatial/geospatial.js#async#50;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/examples/geospatial/geospatial.js#mongoose#120;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/examples/geospatial/geospatial.js#person.js#154;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/chai/lib/chai/utils/getActual.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/chai/lib/chai/utils/getEnumerableProperties.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/chai/lib/chai/utils/getMessage.js#flag#162;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/lib/chai/utils/getMessage.js#getActual#191;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/lib/chai/utils/getMessage.js#inspect#230;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/lib/chai/utils/getMessage.js#objDisplay#265;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/chai/lib/chai/utils/getName.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/chai/lib/chai/utils/getPathInfo.js#hasProperty#122;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/chai/lib/chai/utils/getPathValue.js#getPathInfo#171;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/chai/lib/chai/utils/getProperties.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/glob/glob.js#EE#1654;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/glob/glob.js#Glob#3146;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/glob/glob.js#assert#1716;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/glob/glob.js#common#1828;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/glob/glob.js#fs#1518;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/glob/glob.js#globSync#1792;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/glob/glob.js#inflight#1990;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/glob/glob.js#inherits#1614;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/glob/glob.js#isAbsolute#1747;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/glob/glob.js#minimatch#1541;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/glob/glob.js#once#2131;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/glob/glob.js#path#1689;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/glob/glob.js#util#2025;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/graceful-fs/graceful-fs.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/growl/lib/growl.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/examples/globalschemas/gs_example.js#mongoose#4;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/examples/globalschemas/gs_example.js#person.js#118;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/gulp/bin/gulp.js#Liftoff#208;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp/bin/gulp.js#archy#178;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp/bin/gulp.js#argv#395;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp/bin/gulp.js#chalk#116;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp/bin/gulp.js#cliPackage#884;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp/bin/gulp.js#completion#348;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp/bin/gulp.js#env.configPath#3146;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp/bin/gulp.js#gulpInst#3249;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp/bin/gulp.js#gutil#39;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp/bin/gulp.js#interpret#276;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp/bin/gulp.js#prettyTime#73;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp/bin/gulp.js#semver#146;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp/bin/gulp.js#taskTree#450;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp/bin/gulp.js#tildify#242;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp/bin/gulp.js#v8flags#314;</node>
+            <node x="" y="">$PROJECT_DIR$/gulpfile.js#gulp#4;C:/Users/boris/WebstormProjects/MyChatApp/gulpfile.js#livereload#104;C:/Users/boris/WebstormProjects/MyChatApp/gulpfile.js#nodemon#30;C:/Users/boris/WebstormProjects/MyChatApp/gulpfile.js#plumber#67;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/gulp-livereload/examples/nodemon/gulpfile.js#gulp#260;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp-livereload/examples/nodemon/gulpfile.js#livereload#287;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp-livereload/examples/nodemon/gulpfile.js#nodemon#331;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/services/query/hasDollarKeys.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/chai/lib/chai/utils/hasProperty.js#type#122;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nyc/lib/hash.js#CACHE_VERSION#22;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/lib/hash.js#md5hex#63;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/lib/hash.js#salt#133;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/schema/operators/helpers.js#Types#52;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/operators/helpers.js#castArraysOfNumbers#154;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/operators/helpers.js#castToNumber#117;</node>
+            <node x="" y="">$PROJECT_DIR$/app/controllers/home.js#express#4;C:/Users/boris/WebstormProjects/MyChatApp/app/controllers/home.js#mongoose#65;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/lib/hook.js#Runnable#52;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/hook.js#inherits#101;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/hooks-fixed/hooks.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/lib/reporters/html.js#Base#78;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/reporters/html.js#Progress#141;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/reporters/html.js#escapeRe#188;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/reporters/html.js#utils#108;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/gulp-livereload/examples/https.js#gulp#19;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp-livereload/examples/https.js#less#47;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp-livereload/examples/https.js#livereload#80;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp-livereload/examples/https.js#read#132;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/iconv-lite/lib/index.d.ts</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nyc/node_modules/mkdirp/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/kareem/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/interpret/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nyc/node_modules/find-cache-dir/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/orchestrator/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/range-parser/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nyc/node_modules/arrify/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/regexp-clone/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/serve-static/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/morgan/index.js#auth#411;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/morgan/index.js#debug#444;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/morgan/index.js#deprecate#483;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/morgan/index.js#onFinished#525;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/morgan/index.js#onHeaders#565;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/cookie-parser/index.js#cookie#190;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/cookie-parser/index.js#signature#222;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/supertest/index.js#Test#71;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/supertest/index.js#agent.js#696;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/supertest/index.js#http#104;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/supertest/index.js#methods#38;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nyc/node_modules/foreground-child/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nyc/node_modules/debug-log/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nyc/node_modules/istanbul-reports/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/lodash.assign/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/lodash.create/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nyc/node_modules/merge-source-map/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nyc/node_modules/caching-transform/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/object.assign/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nyc/node_modules/istanbul-lib-hook/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/sliced/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pretty-hrtime/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nyc/node_modules/convert-source-map/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/serve-favicon/index.js#Buffer#236;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/serve-favicon/index.js#etag#270;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/serve-favicon/index.js#fresh#297;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/serve-favicon/index.js#fs#326;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/serve-favicon/index.js#ms#349;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/serve-favicon/index.js#parseUrl#372;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/serve-favicon/index.js#path#407;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/basic-auth/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/accepts/index.js</node>
+            <node x="" y="">Buffer;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nyc/node_modules/archy/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/index.js#express.js#198;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nyc/node_modules/istanbul-lib-report/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/deprecated/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/router/index.js#Layer#262;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/router/index.js#Route#230;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/router/index.js#debug#364;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/router/index.js#deprecate#412;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/router/index.js#flatten#456;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/router/index.js#methods#294;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/router/index.js#mixin#328;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/router/index.js#parseUrl#496;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/router/index.js#setPrototypeOf#532;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/browser-stdout/index.js</node>
+            <node x="" y="">classes.FileCoverage;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/handlebars/lib/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/lodash.isarray/index.js</node>
+            <node x="" y="">readInitialCoverage;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/path-to-regexp/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nyc/node_modules/istanbul-lib-source-maps/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/setprototypeof/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/isarray/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/assertion-error/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/liftoff/index.js</node>
+            <node x="" y="">Binary;Decimal128;ObjectID;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/gulp-livereload/index.js#_assign#127;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp-livereload/index.js#debug#167;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp-livereload/index.js#es#19;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp-livereload/index.js#gutil#216;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp-livereload/index.js#magenta#260;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp-livereload/index.js#minilr#53;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp-livereload/index.js#relative#97;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/methods/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/gulp-livereload/examples/nodemon/index.js#app#18;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/index.js#index.js#53;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mini-lr/lib/index.js</node>
+            <node x="" y="">magenta;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/chai/index.js#chai.js#17;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/index.js#Aggregate#618;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/index.js#Collection#15558;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/index.js#Connection#15484;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/index.js#Document#311;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/index.js#Model#279;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/index.js#PromiseProvider#658;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/index.js#Query#247;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/index.js#STATES#172;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/index.js#Schema#52;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/index.js#SchemaType#86;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/index.js#Types#215;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/index.js#VirtualType#128;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/index.js#cast.js#19718;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/index.js#document_provider.js#19176;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/index.js#error.js#19338;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/index.js#index.js#19916;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/index.js#mquery.js#20094;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/index.js#pkg#418;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/index.js#querystring#457;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/index.js#saveSubdocs#499;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/index.js#shardingPlugin#711;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/index.js#utils#349;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/index.js#validateBeforeSave#551;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/chai/lib/chai/utils/index.js#addChainableMethod.js#1561;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/lib/chai/utils/index.js#addMethod.js#1294;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/lib/chai/utils/index.js#addProperty.js#1224;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/lib/chai/utils/index.js#expectTypes.js#330;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/lib/chai/utils/index.js#flag.js#689;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/lib/chai/utils/index.js#getActual.js#479;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/lib/chai/utils/index.js#getMessage.js#406;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/lib/chai/utils/index.js#getName.js#1154;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/lib/chai/utils/index.js#getPathInfo.js#995;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/lib/chai/utils/index.js#getPathValue.js#918;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/lib/chai/utils/index.js#hasProperty.js#1083;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/lib/chai/utils/index.js#index.js#252;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/lib/chai/utils/index.js#inspect.js#547;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/lib/chai/utils/index.js#objDisplay.js#623;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/lib/chai/utils/index.js#overwriteChainableMethod.js#1669;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/lib/chai/utils/index.js#overwriteMethod.js#1466;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/lib/chai/utils/index.js#overwriteProperty.js#1378;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/lib/chai/utils/index.js#test.js#192;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/lib/chai/utils/index.js#transferFlags.js#771;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/depd/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/types/index.js#Array#29;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/types/index.js#Buffer#65;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/types/index.js#Embedded#137;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/types/index.js#array.js#45;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/types/index.js#buffer.js#82;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/types/index.js#decimal128.js#253;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/types/index.js#documentarray.js#204;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/types/index.js#embedded.js#156;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/types/index.js#objectid.js#297;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/types/index.js#subdocument.js#343;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/method-override/index.js#debug#246;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/method-override/index.js#methods#294;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/method-override/index.js#parseurl#327;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/method-override/index.js#querystring#362;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/method-override/index.js#vary#403;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/schema/index.js#array.js#260;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/index.js#boolean.js#125;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/index.js#buffer.js#298;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/index.js#date.js#335;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/index.js#decimal128.js#474;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/index.js#documentarray.js#172;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/index.js#embedded.js#220;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/index.js#mixed.js#414;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/index.js#number.js#85;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/index.js#objectid.js#374;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/index.js#string.js#46;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/diff/lib/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nyc/index.js#/lib/instrumenters/istanbul#1404;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/index.js#Hash#266;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/index.js#Module#567;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/index.js#SourceMaps#788;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/index.js#arrify#33;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/index.js#cachingTransform#66;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/index.js#debugLog#120;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/index.js#findCacheDir#165;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/index.js#fs#212;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/index.js#glob#237;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/index.js#js#301;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/index.js#libCoverage#353;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/index.js#libHook#406;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/index.js#libReport#451;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/index.js#md5hex#500;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/index.js#mkdirp#534;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/index.js#onExit#600;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/index.js#p#3972;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/index.js#path#638;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/index.js#process.covered.js#913;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/index.js#process.js#1008;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/index.js#r#4073;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/index.js#reports#667;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/index.js#resolveFrom#711;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/index.js#rimraf#755;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/index.js#self-coverage-helper.js#1114;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/index.js#testExclude#836;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/on-headers/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/drivers/index.js#/node-mongodb-native#80;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/drivers/browser/index.js#Binary#28;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/drivers/browser/index.js#ObjectId#66;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/drivers/browser/index.js#ReadPreference#108;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/drivers/index.js#index.js#165;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nyc/node_modules/spawn-wrap/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/drivers/browser/index.js#ReadPreference.js#133;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/drivers/browser/index.js#binary.js#45;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/drivers/browser/index.js#objectid.js#85;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/drivers/node-mongodb-native/index.js#ReadPreference.js#133;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/drivers/node-mongodb-native/index.js#binary.js#45;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/drivers/node-mongodb-native/index.js#objectid.js#85;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/etag/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/proxy-addr/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/gulp/index.js#Orchestrator#47;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp/index.js#deprecated#125;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp/index.js#gutil#91;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp/index.js#util#19;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp/index.js#vfs#165;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/examples/schema/storing-schemas-as-json/index.js#mongoose#16;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/examples/schema/storing-schemas-as-json/index.js#raw#101;</node>
+            <node x="" y="">sign;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/lodash._basecopy/index.js</node>
+            <node x="" y="">Binary;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/index.js#Collection#15822;ObjectId;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/gulp/node_modules/minimist/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/path-is-absolute/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/qs/lib/index.js</node>
+            <node x="" y="">agent;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/muri/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/body-parser/index.js#deprecate#156;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/body-parser/index.js#json.js#2302;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/body-parser/index.js#raw.js#2373;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/body-parser/index.js#text.js#2444;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/body-parser/index.js#urlencoded.js#2522;</node>
+            <node x="" y="">mime;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/compression/index.js#accepts#259;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/compression/index.js#bytes#292;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/compression/index.js#compressible#321;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/compression/index.js#debug#364;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/compression/index.js#onHeaders#408;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/compression/index.js#vary#446;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/compression/index.js#zlib#473;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nyc/node_modules/signal-exit/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/compression/node_modules/bytes/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/lodash._getnative/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/merge-descriptors/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/vary/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express-handlebars/index.js#ExpressHandlebars#180;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/promise/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/ms/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nyc/node_modules/resolve-from/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/lodash._baseassign/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/lodash._basecreate/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nyc/node_modules/test-exclude/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/lodash.isarguments/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/escape-html/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nyc/node_modules/yargs-parser/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/content-disposition/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/escape-string-regexp/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/parseurl/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/debug/src/index.js#browser.js#186;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/debug/src/index.js#node.js#239;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/raw-body/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/process-nextick-args/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fresh/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/lodash._isiterateecall/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/index.js#mocha.js#32;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/statuses/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/http-errors/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/vinyl-fs/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/lodash.keys/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/lib/reporters/index.js#base.js#194;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/reporters/index.js#doc.js#287;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/reporters/index.js#dot.js#241;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/reporters/index.js#html.js#430;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/reporters/index.js#json-stream.js#920;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/reporters/index.js#json.js#381;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/reporters/index.js#landing.js#852;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/reporters/index.js#list.js#479;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/reporters/index.js#markdown.js#732;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/reporters/index.js#min.js#526;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/reporters/index.js#nyan.js#623;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/reporters/index.js#progress.js#793;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/reporters/index.js#spec.js#574;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/reporters/index.js#tap.js#333;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/reporters/index.js#xunit.js#674;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/lib/interfaces/index.js#bdd.js#29;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/interfaces/index.js#exports.js#133;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/interfaces/index.js#qunit.js#95;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/interfaces/index.js#tdd.js#61;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/lib/to-iso-string/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/on-finished/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/tildify/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/type-is/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/v8flags/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/node_modules/supports-color/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/type-detect/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mpath/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/utils-merge/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/commander/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/buffer-shims/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/compressible/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/content-type/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/event-stream/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/deep-eql/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nyc/node_modules/find-up/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/finalhandler/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/encodeurl/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/gulp-nodemon/index.js#bus#131;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp-nodemon/index.js#colors#30;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp-nodemon/index.js#cp#92;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp-nodemon/index.js#gulp#62;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp-nodemon/index.js#nodemon.js#407;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/gulp-plumber/index.js#EE#60;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp-plumber/index.js#gutil#96;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp-plumber/index.js#through2#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/colors/lib/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nyc/node_modules/md5-hex/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/gulp-util/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/cookie/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/drivers/index.web.js#index.js#36;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/inflight/inflight.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/inherits/inherits.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/middleware/init.js#setPrototypeOf#230;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/chai/lib/chai/utils/inspect.js#getEnumerableProperties#229;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/lib/chai/utils/inspect.js#getName#145;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/lib/chai/utils/inspect.js#getProperties#181;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nyc/lib/commands/instrument.js#index.covered.js#22;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/lib/commands/instrument.js#index.js#78;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/internal.js#StateMachine#29;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/services/projection/isPathSelectedInclusive.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nyc/lib/instrumenters/istanbul.js#convertSourceMap#18;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/lib/instrumenters/istanbul.js#index.js#1395;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/lib/instrumenters/istanbul.js#istanbul.js#1509;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/lib/instrumenters/istanbul.js#mergeSourceMap#71;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nyc/node_modules/default-require-extensions/js.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/lib/reporters/json-stream.js#Base#52;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/reporters/json-stream.js#JSON#82;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/body-parser/lib/types/json.js#bytes#190;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/body-parser/lib/types/json.js#contentType#219;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/body-parser/lib/types/json.js#createError#261;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/body-parser/lib/types/json.js#debug#302;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/body-parser/lib/types/json.js#read#351;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/body-parser/lib/types/json.js#typeis#381;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/lib/reporters/json.js#Base#52;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/json3/lib/json3.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/chai/karma.conf.js#karma.sauce.js#524;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/chai/karma.sauce.js#browserConfig#502;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/karma.sauce.js#index#149;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/karma.sauce.js#version#14;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/lib/reporters/landing.js#Base#52;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/reporters/landing.js#inherits#93;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/router/layer.js#debug#274;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/router/layer.js#pathRegexp#230;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/examples/lean/lean.js#async#51;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/examples/lean/lean.js#mongoose#121;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/examples/lean/lean.js#person.js#155;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/lib/reporters/list.js#Base#52;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/reporters/list.js#inherits#93;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/examples/mapreduce/mapreduce.js#async#50;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/examples/mapreduce/mapreduce.js#mongoose#120;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/examples/mapreduce/mapreduce.js#person.js#154;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/lib/reporters/markdown.js#Base#52;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/reporters/markdown.js#utils#82;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/error/messages.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/lib/reporters/min.js#Base#52;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/reporters/min.js#inherits#93;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/minimatch/minimatch.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/error/missingSchema.js#MongooseError#38;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/schema/mixed.js#SchemaType#37;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/mixed.js#utils#80;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/bin/mocha#getOptions#256;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/bin/mocha#path#228;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/bin/mocha#spawn#192;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/mocha.js#Base#86201;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#Buffer#363950;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#BufferList#364378;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#Duplex#394102;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#EE#363586;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#EventEmitter#363875;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#Hook#121569;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#JSON#11814;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#Mocha#668;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#Pending#90223;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#Progress#56566;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#Readable#361227;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#Runnable#13787;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#Stream#415166;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#StringDecoder#371103;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#Suite#17113;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#Test#14602;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#Transform#362763;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#Writable#361273;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#WritableStream#155951;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#_apply#235288;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#_array#235200;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#_base#223119;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#_character#234668;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#_create#235466;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#_css#235030;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#_distanceIterator#238728;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#_dmp#235557;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#_json#235114;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#_line#225189;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#_params#231666;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#_parse#235377;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#_process#4805;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#_sentence#234936;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#_stream_duplex#399482;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#_stream_duplex.js#360478;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#_stream_passthrough.js#415023;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#_stream_readable.js#415349;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#_stream_transform.js#416058;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#_stream_writable.js#416189;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#_word#234764;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#_xml#235644;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#base#65914;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#base64#160455;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#baseAssign#331169;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#baseCopy#319467;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#baseCreate#331217;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#basename#132526;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#bdd#22538;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#buffer#156829;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#bufferShim#413550;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#common#15154;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#context#28029;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#create#130431;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#debug#99110;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#debugUtil#364189;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#diff#42705;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#doc#66007;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#dot#65961;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#duplex.js#417693;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#escapeRe#27450;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#exec#264757;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#exists#132638;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#exports#22642;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#file#33490;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#fs#350284;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#getNative#343916;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#glob#132670;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#hook#28140;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#html#66150;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#ieee754#160489;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#index.js#634;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#inherits#417506;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#inherits.js#364126;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#interfaces#27913;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#internalUtil#398815;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#isArguments#343962;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#isArray#363468;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#isBuffer#444020;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#isIterateeCall#331265;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#isString#130481;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#json#66101;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#json-stream#66640;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#keys#319511;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#landing#66572;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#list#66199;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#lstatSync#132885;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#markdown#66452;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#milliseconds#121707;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#min#66246;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#mkdirp#86346;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#ms#42733;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#name#32253;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#notify#33707;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#nyan#66343;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#os#264887;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#passthrough.js#417812;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#path#27498;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#processNextTick#361041;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#progress#66513;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#qunit#22604;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#readable.js#417579;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#readdirSync#132762;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#ream#398960;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#reporter#30943;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#reporters#27526;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#runnable#27988;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#runner#28068;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#spec#66294;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#statSync#132804;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#suite#28105;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#supportsColor#42793;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#tap#66053;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#tdd#22570;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#test#28174;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#toISOString#132914;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#transform.js#417750;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#tty#42679;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#util#398704;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#utils#56533;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#watchFile#132844;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#writable.js#417637;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/mocha.js#xunit#66394;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/lib/mocha.js#context.js#722;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/mocha.js#escapeRe#143;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/mocha.js#file#6183;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/mocha.js#hook.js#833;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/mocha.js#index.js#606;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/mocha.js#name#4946;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/mocha.js#notify#6400;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/mocha.js#path#191;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/mocha.js#reporter#3636;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/mocha.js#reporters#219;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/mocha.js#runnable.js#681;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/mocha.js#runner.js#761;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/mocha.js#suite.js#798;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/mocha.js#test.js#867;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/mocha.js#utils#259;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/model.js#Aggregate#37;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/model.js#DivergentArrayError#194;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/model.js#Document#77;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/model.js#DocumentNotFoundError#115;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/model.js#EventEmitter#253;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/model.js#OverwriteModelError#311;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/model.js#PromiseProvider#355;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/model.js#Query#408;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/model.js#Schema#440;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/model.js#VersionError#489;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/model.js#applyHooks#526;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/model.js#applyMethods#583;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/model.js#applyStatics#644;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/model.js#cast#705;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/model.js#castUpdate#735;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/model.js#discriminator#792;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/model.js#isPathSelectedInclusive#855;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/model.js#model#67333;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/model.js#mpath#943;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/model.js#parallel#973;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/model.js#util#1015;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/model.js#utils#1043;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/examples/express/connection-sharing/modelA.js#Schema#13;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/promise_provider.js#Promise#547;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/lib/ms.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/util-deprecate/node.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/debug/node.js#node.js#17;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/debug/src/node.js#debug.js#214;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/debug/src/node.js#fs#4359;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/debug/src/node.js#net#4528;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/debug/src/node.js#tty#37;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/debug/src/node.js#util#63;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodemon/lib/nodemon.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nyc/lib/instrumenters/noop.js#FileCoverage#19;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/lib/instrumenters/noop.js#readInitialCoverage#99;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/error/notFound.js#MongooseError#52;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/error/notFound.js#util#96;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/schema/number.js#MongooseError#178;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/number.js#SchemaType#37;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/number.js#document.js#4882;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/number.js#handleBitwiseOperator#118;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/number.js#utils#219;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/lib/reporters/nyan.js#Base#52;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/reporters/nyan.js#inherits#93;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nyc/bin/nyc.js#configUtil#25;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/bin/nyc.js#foreground#72;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/bin/nyc.js#index.covered.js#135;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/bin/nyc.js#index.js#188;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/bin/nyc.js#processArgs#217;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/bin/nyc.js#sw#267;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/chai/lib/chai/utils/objDisplay.js#config#183;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/chai/lib/chai/utils/objDisplay.js#inspect#147;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/error/objectExpected.js#MongooseError#37;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/types/objectid.js#ObjectId#147;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/schema/objectid.js#SchemaType#63;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/objectid.js#document.js#1830;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/objectid.js#oid#144;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/objectid.js#utils#184;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/drivers/browser/objectid.js#ObjectId#160;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/drivers/node-mongodb-native/objectid.js#ObjectId#160;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/once/once.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/bin/options.js#fs#45;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/chai/lib/chai/utils/overwriteChainableMethod.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/chai/lib/chai/utils/overwriteMethod.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/error/overwriteModel.js#MongooseError#38;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/chai/lib/chai/utils/overwriteProperty.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nyc/node_modules/istanbul-lib-coverage/package.json#version#2999;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/package.json</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/chai/package.json#version#2133;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nyc/package.json#version#4883;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/gulp/package.json</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/node_modules/async/parallel.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/readable-stream/passthrough.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/lib/pending.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/examples/lean/person.js#mongoose#36;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/examples/statics/person.js#mongoose#36;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/examples/promises/person.js#mongoose#37;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/examples/aggregate/person.js#mongoose#37;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/examples/mapreduce/person.js#mongoose#37;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/examples/geospatial/person.js#mongoose#36;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/examples/replicasets/person.js#mongoose#37;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/examples/querybuilder/person.js#mongoose#37;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/examples/globalschemas/person.js#mongoose#36;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/examples/population/population-across-three-collections.js#assert#5;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/examples/population/population-across-three-collections.js#dbname#217;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/examples/population/population-across-three-collections.js#mongoose#37;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/examples/population/population-across-three-collections.js#s#2361;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/examples/population/population-basic.js#mongoose#5;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/examples/population/population-of-existing-doc.js#mongoose#5;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/examples/population/population-of-multiple-existing-docs.js#mongoose#5;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/examples/population/population-options.js#mongoose#5;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/examples/population/population-plain-objects.js#mongoose#5;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nyc/lib/process-args.js#parser#6;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nyc/lib/process.js#archy#6;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/lib/process.js#libCoverage#37;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/lib/browser/progress.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/lib/reporters/progress.js#Base#52;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/reporters/progress.js#inherits#93;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/promise.js#MPromise#36;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/promise.js#util#72;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/examples/promises/promise.js#async#50;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/examples/promises/promise.js#mongoose#120;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/examples/promises/promise.js#person.js#154;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mpromise/lib/promise.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/promise_provider.js#ES6Promise.js#491;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/promise_provider.js#MPromise#37;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/promise_provider.js#Promise#547;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/middleware/query.js#parseUrl#218;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/middleware/query.js#qs#254;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/query.js#PromiseProvider#37;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/query.js#QueryCursor#90;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/query.js#QueryStream#141;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/query.js#cast#185;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/query.js#castUpdate#215;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/query.js#hasDollarKeys#272;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/query.js#helpers#335;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/query.js#mquery#376;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/query.js#readPref#419;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/query.js#setDefaultsOnInsert#460;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/query.js#updateValidators#529;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/query.js#util#592;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/query.js#utils#620;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/examples/querybuilder/querybuilder.js#async#51;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/examples/querybuilder/querybuilder.js#mongoose#121;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/examples/querybuilder/querybuilder.js#person.js#155;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/queryhelpers.js#createModel#1164;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/queryhelpers.js#utils#37;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/querystream.js#Stream#72;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/querystream.js#helpers#134;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/querystream.js#utils#102;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/lib/interfaces/qunit.js#Test#52;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/interfaces/qunit.js#common#708;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/body-parser/lib/types/raw.js#bytes#144;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/body-parser/lib/types/raw.js#debug#173;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/body-parser/lib/types/raw.js#read#221;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/body-parser/lib/types/raw.js#typeis#251;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/body-parser/lib/read.js#createError#156;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/body-parser/lib/read.js#getBody#197;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/body-parser/lib/read.js#iconv#231;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/body-parser/lib/read.js#onFinished#265;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/body-parser/lib/read.js#zlib#305;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/readable-stream/readable.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/tools/repl.js#ReplSet#75;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/tools/repl.js#co#21;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/examples/replicasets/replica-sets.js#async#51;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/examples/replicasets/replica-sets.js#mongoose#121;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/examples/replicasets/replica-sets.js#person.js#155;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/request.js#accepts#230;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/request.js#deprecate#264;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/request.js#fresh#401;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/request.js#http#373;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/request.js#isIP#315;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/request.js#parse#473;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/request.js#parseRange#431;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/request.js#proxyaddr#506;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/request.js#typeis#340;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/response.js#contentDisposition#194;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/response.js#cookie#793;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/response.js#deprecate#251;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/response.js#encodeUrl#295;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/response.js#escapeHtml#333;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/response.js#http#374;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/response.js#isAbsolute#415;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/response.js#merge#554;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/response.js#normalizeType#651;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/response.js#normalizeTypes#706;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/response.js#onFinished#450;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/response.js#path#491;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/response.js#send#825;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/response.js#setCharset#758;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/response.js#sign#597;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/response.js#statuses#519;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/response.js#vary#931;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nyc/node_modules/rimraf/rimraf.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/router/route.js#Layer#324;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/router/route.js#debug#230;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/router/route.js#flatten#284;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/router/route.js#methods#356;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/examples/express/connection-sharing/routes.js#model#5;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/lib/runnable.js#EventEmitter#67;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/runnable.js#JSON#103;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/runnable.js#Pending#132;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/runnable.js#create#284;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/runnable.js#debug#168;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/runnable.js#milliseconds#216;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/runnable.js#utils#252;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/lib/runner.js#EventEmitter#67;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/runner.js#Pending#103;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/runner.js#Runnable#248;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/runner.js#debug#202;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/runner.js#utils#139;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/chai/sauce.browsers.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/plugins/saveSubdocs.js#each#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/schema.js#EventEmitter#104;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema.js#Kareem#235;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema.js#SchemaType#301;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema.js#VirtualType#140;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema.js#each#267;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema.js#index.js#47667;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema.js#mpath#343;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema.js#readPref#48;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema.js#utils#184;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/examples/schema/schema.js#mongoose#37;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/examples/schema/storing-schemas-as-json/schema.json</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/schematype.js#$exists#37;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schematype.js#$type#89;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schematype.js#MongooseError#169;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schematype.js#ValidatorError#30328;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schematype.js#legacyAsyncValidate#25475;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schematype.js#utils#137;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nyc/lib/self-coverage-helper.js#fs#73;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/lib/self-coverage-helper.js#mkdirp#98;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/lib/self-coverage-helper.js#onExit#131;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/lib/self-coverage-helper.js#path#44;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/gulp/node_modules/semver/semver.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/services/setDefaultsOnInsert.js#modifiedPaths#35;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/tools/sharded.js#Sharded#75;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/tools/sharded.js#co#21;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/plugins/sharding.js#utils#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/chai/lib/chai/interface/should.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nyc/lib/source-maps.js#convertSourceMap#6;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/lib/source-maps.js#fs#172;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/lib/source-maps.js#libCoverage#61;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/lib/source-maps.js#libSourceMaps#114;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/lib/source-maps.js#path#197;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/lib/reporters/spec.js#Base#52;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/reporters/spec.js#inherits#93;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/statemachine.js#utils#38;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/gulp-livereload/examples/static-server.js#gulp#19;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp-livereload/examples/static-server.js#http#125;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp-livereload/examples/static-server.js#less#47;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp-livereload/examples/static-server.js#livereload#80;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp-livereload/examples/static-server.js#st#153;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/static.js#createServer#88;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/static.js#static#5;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/examples/statics/statics.js#mongoose#4;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/examples/statics/statics.js#person.js#60;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/error/strict.js#MongooseError#37;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/schema/string.js#MongooseError#118;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/string.js#SchemaType#37;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/string.js#document.js#11367;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/schema/string.js#utils#159;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/types/subdocument.js#Document#4;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/types/subdocument.js#PromiseProvider#43;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/lib/suite.js#EventEmitter#67;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/suite.js#Hook#103;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/suite.js#debug#196;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/suite.js#milliseconds#241;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/suite.js#utils#133;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/glob/sync.js#Glob#163;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/glob/sync.js#assert#247;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/glob/sync.js#common#323;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/glob/sync.js#fs#60;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/glob/sync.js#isAbsolute#278;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/glob/sync.js#minimatch#83;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/glob/sync.js#path#220;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/glob/sync.js#util#193;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/lib/reporters/tap.js#Base#52;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/gulp/lib/taskTree.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/lib/interfaces/tdd.js#Test#52;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/interfaces/tdd.js#common#685;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/lib/template.html</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/supertest/lib/test.js#assert#160;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/supertest/lib/test.js#http#102;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/supertest/lib/test.js#https#130;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/supertest/lib/test.js#request#37;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/supertest/lib/test.js#util#74;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/chai/lib/chai/utils/test.js#flag#147;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/lib/test.js#Runnable#52;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/test.js#create#90;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/test.js#isString#140;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/body-parser/lib/types/text.js#bytes#144;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/body-parser/lib/types/text.js#contentType#173;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/body-parser/lib/types/text.js#debug#215;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/body-parser/lib/types/text.js#read#264;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/body-parser/lib/types/text.js#typeis#294;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/through2/through2.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/chai/lib/chai/utils/transferFlags.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/readable-stream/transform.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/schema/operators/type.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/services/updateValidators.js#Mixed#37;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/services/updateValidators.js#ValidationError#77;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/services/updateValidators.js#flatten#183;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/services/updateValidators.js#modifiedPaths#232;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/services/updateValidators.js#parallel#131;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/body-parser/lib/types/urlencoded.js#bytes#190;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/body-parser/lib/types/urlencoded.js#contentType#219;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/body-parser/lib/types/urlencoded.js#createError#261;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/body-parser/lib/types/urlencoded.js#debug#302;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/body-parser/lib/types/urlencoded.js#deprecate#357;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/body-parser/lib/types/urlencoded.js#index.js#4477;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/body-parser/lib/types/urlencoded.js#querystring#4539;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/body-parser/lib/types/urlencoded.js#read#404;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/body-parser/lib/types/urlencoded.js#typeis#434;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/core-util-is/lib/util.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/utils.js#basename#426;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/utils.js#compileETag#3446;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/utils.js#compileQueryParser#3996;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/utils.js#compileTrust#4646;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/utils.js#contentDisposition#198;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/utils.js#contentType#255;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/utils.js#deprecate#298;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/utils.js#etag#456;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/utils.js#flatten#342;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/utils.js#isAbsolute#1308;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/utils.js#mime#389;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/utils.js#normalizeType#1915;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/utils.js#normalizeTypes#2193;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/utils.js#proxyaddr#484;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/utils.js#qs#523;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/utils.js#querystring#547;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/utils.js#setCharset#5243;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/utils.js#Array#11228;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/utils.js#Buffer#11293;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/utils.js#Decimal#37;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/utils.js#ObjectId#82;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/utils.js#clone#5056;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/utils.js#cloneRegExp#126;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/utils.js#document.js#9282;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/utils.js#mpath#201;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/utils.js#ms#231;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/utils.js#random#8039;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/utils.js#sliced#169;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express-handlebars/lib/utils.js#index.js#213;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/lib/utils.js#JSON#78;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/utils.js#basename#118;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/utils.js#debug#148;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/utils.js#exists#202;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/utils.js#glob#262;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/utils.js#inherits#622;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/utils.js#isString#1342;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/utils.js#lstatSync#477;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/utils.js#path#290;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/utils.js#readdirSync#354;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/utils.js#statSync#396;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/utils.js#toISOString#506;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/utils.js#watchFile#436;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/plugins/validateBeforeSave.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/error/validation.js#MongooseError#36;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/lib/error/validation.js#utils#80;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/error/validator.js#MongooseError#37;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/error/version.js#MongooseError#52;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/view.js#__express#1569;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/view.js#debug#230;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/view.js#fs#304;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/view.js#path#276;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/express/lib/view.js#utils#328;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/lib/virtualtype.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/gulp-livereload/examples/watch.js#gulp#19;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp-livereload/examples/watch.js#less#47;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/gulp-livereload/examples/watch.js#livereload#80;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mongoose/website.js#acquit#2027;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/website.js#filemap#1031;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/website.js#filters#301;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/website.js#fs#4;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/website.js#hl#92;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/website.js#href#189;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/website.js#jade#28;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/website.js#klass#232;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/website.js#linktype#138;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mongoose/website.js#package#56;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nyc/bin/wrap.js#index.covered.js#53;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/bin/wrap.js#index.js#106;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/nyc/bin/wrap.js#sw#4;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/readable-stream/writable.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/lib/reporters/xunit.js#Base#52;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/reporters/xunit.js#fs#146;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/reporters/xunit.js#mkdirp#197;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/reporters/xunit.js#path#229;C:/Users/boris/WebstormProjects/MyChatApp/node_modules/mocha/lib/reporters/xunit.js#utils#82;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nyc/node_modules/yargs/yargs.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mocha/mocha.js#StringDecoder#422327;</node>
+            <node x="" y="">/collection</node>
+            <node x="" y="">/connection</node>
+            <node x="" y="">/lib/instrumenters/istanbul</node>
+            <node x="" y="">/node-mongodb-native</node>
+            <node x="" y="">BufferList</node>
+            <node x="" y="">_process</node>
+            <node x="" y="">_stream_duplex</node>
+            <node x="" y="">_stream_duplex.js</node>
+            <node x="" y="">_stream_passthrough.js</node>
+            <node x="" y="">_stream_readable</node>
+            <node x="" y="">_stream_readable.js</node>
+            <node x="" y="">_stream_transform</node>
+            <node x="" y="">_stream_transform.js</node>
+            <node x="" y="">_stream_writable</node>
+            <node x="" y="">_stream_writable.js</node>
+            <node x="" y="">acquit</node>
+            <node x="" y="">addChainableMethod</node>
+            <node x="" y="">addMethod</node>
+            <node x="" y="">addProperty</node>
+            <node x="" y="">apply</node>
+            <node x="" y="">archy</node>
+            <node x="" y="">array</node>
+            <node x="" y="">assert</node>
+            <node x="" y="">assertion</node>
+            <node x="" y="">assertions</node>
+            <node x="" y="">base</node>
+            <node x="" y="">base64-js</node>
+            <node x="" y="">bdd</node>
+            <node x="" y="">bytes</node>
+            <node x="" y="">chalk</node>
+            <node x="" y="">character</node>
+            <node x="" y="">exec;spawn;</node>
+            <node x="" y="">co</node>
+            <node x="" y="">common</node>
+            <node x="" y="">config</node>
+            <node x="" y="">context</node>
+            <node x="" y="">controller</node>
+            <node x="" y="">create</node>
+            <node x="" y="">css</node>
+            <node x="" y="">debug</node>
+            <node x="" y="">distance-iterator</node>
+            <node x="" y="">dmp</node>
+            <node x="" y="">doc</node>
+            <node x="" y="">dot</node>
+            <node x="" y="">env.configPath</node>
+            <node x="" y="">env.modulePath</node>
+            <node x="" y="">eql</node>
+            <node x="" y="">EventEmitter;</node>
+            <node x="" y="">expect</node>
+            <node x="" y="">expectTypes</node>
+            <node x="" y="">exports</node>
+            <node x="" y="">express</node>
+            <node x="" y="">file</node>
+            <node x="" y="">filters</node>
+            <node x="" y="">flag</node>
+            <node x="" y="">existsSync;lstatSync;readFileSync;readdirSync;statSync;watchFile;</node>
+            <node x="" y="">getActual</node>
+            <node x="" y="">getEnumerableProperties</node>
+            <node x="" y="">getMessage</node>
+            <node x="" y="">getName</node>
+            <node x="" y="">getPathInfo</node>
+            <node x="" y="">getPathValue</node>
+            <node x="" y="">getProperties</node>
+            <node x="" y="">glob</node>
+            <node x="" y="">gulp-jshint</node>
+            <node x="" y="">gulp-less</node>
+            <node x="" y="">hasProperty</node>
+            <node x="" y="">highlight</node>
+            <node x="" y="">hook</node>
+            <node x="" y="">href</node>
+            <node x="" y="">html</node>
+            <node x="" y="">createServer;</node>
+            <node x="" y="">https</node>
+            <node x="" y="">ieee754</node>
+            <node x="" y="">index</node>
+            <node x="" y="">index.covered.js</node>
+            <node x="" y="">index.js</node>
+            <node x="" y="">inspect</node>
+            <node x="" y="">interfaces</node>
+            <node x="" y="">isBuffer</node>
+            <node x="" y="">jade</node>
+            <node x="" y="">json</node>
+            <node x="" y="">json-stream</node>
+            <node x="" y="">klass</node>
+            <node x="" y="">landing</node>
+            <node x="" y="">line</node>
+            <node x="" y="">linktype</node>
+            <node x="" y="">list</node>
+            <node x="" y="">markdown</node>
+            <node x="" y="">min</node>
+            <node x="" y="">mkdirp</node>
+            <node x="" y="">mocha.css</node>
+            <node x="" y="">__express;</node>
+            <node x="" y="">model</node>
+            <node x="" y="">module</node>
+            <node x="" y="">ReplSet;Sharded;</node>
+            <node x="" y="">ms</node>
+            <node x="" y="">name</node>
+            <node x="" y="">isIP;</node>
+            <node x="" y="">node-static</node>
+            <node x="" y="">nyan</node>
+            <node x="" y="">objDisplay</node>
+            <node x="" y="">os</node>
+            <node x="" y="">overwriteChainableMethod</node>
+            <node x="" y="">overwriteMethod</node>
+            <node x="" y="">overwriteProperty</node>
+            <node x="" y="">p</node>
+            <node x="" y="">params</node>
+            <node x="" y="">parse</node>
+            <node x="" y="">basename;existsSync;relative;resolve;</node>
+            <node x="" y="">pending</node>
+            <node x="" y="">process.covered.js</node>
+            <node x="" y="">program.reporter</node>
+            <node x="" y="">progress</node>
+            <node x="" y="">querystring</node>
+            <node x="" y="">qunit</node>
+            <node x="" y="">r</node>
+            <node x="" y="">ream</node>
+            <node x="" y="">reporter</node>
+            <node x="" y="">reporters</node>
+            <node x="" y="">runnable</node>
+            <node x="" y="">runner</node>
+            <node x="" y="">sentence</node>
+            <node x="" y="">should</node>
+            <node x="" y="">source</node>
+            <node x="" y="">spec</node>
+            <node x="" y="">st</node>
+            <node x="" y="">Readable;Stream;Writable;</node>
+            <node x="" y="">suite</node>
+            <node x="" y="">tap</node>
+            <node x="" y="">tdd</node>
+            <node x="" y="">test</node>
+            <node x="" y="">tests.js</node>
+            <node x="" y="">to-iso-string</node>
+            <node x="" y="">transferFlags</node>
+            <node x="" y="">tty</node>
+            <node x="" y="">type</node>
+            <node x="" y="">deprecate;inherits;inspect;</node>
+            <node x="" y="">inherits;isString;</node>
+            <node x="" y="">word</node>
+            <node x="" y="">xml</node>
+            <node x="" y="">xunit</node>
+            <node x="" y="">zlib</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.07302796618043296" x="9495.0" y="5252.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/config/settings.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/home/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/config/auth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/utilities/encryption.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/controllers/home-controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/config/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/home/index.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/config/passport.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="33" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/data/User.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="45" lean-forward="false" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/config/database.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="4" column="36" lean-forward="false" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/styles/site.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/layouts/main.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="49" lean-forward="false" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/yo_express/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/config/express.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="28" column="24" lean-forward="false" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/controllers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
