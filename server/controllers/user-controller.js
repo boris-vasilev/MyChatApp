@@ -16,29 +16,6 @@ module.exports = {
         res.render('user/register')
     },
     registerPost:(req,res)=>{
-        // let reqUser = req.body
-        // if(hasEmptyProps(reqUser)){
-        //     res.render('user/register',{globalError:`Please provide all the information`})
-        //     return
-        // }
-        // User.findOne({username:req.username}).then((user)=>{
-        //     if(user){
-        //         res.render('user/register',{globalError:`User ${req.username} already exists`})
-        //         return
-        //     }
-        // })
-        // if(reqUser.password||reqUser.password!==reqUser.confirmPass){
-        //     res.render('user/register',{globalError:`Passwords don't match`})
-        //     return
-        // }
-        // User.create({
-        //     username:reqUser.username,
-        //     firstName:reqUser.firstName,
-        //     lastName:reqUser.lastName,
-        //     salt:encryption.generateSalt(),
-        //     hashedPassword:encryption.generateHashedPassword(this.salt,reqUser.password)
-        // })
-        // res.redirect('/')
         let reqUser = req.body
         console.log(reqUser)
         // // Add validations!
@@ -70,7 +47,6 @@ module.exports = {
                         res.locals.globalError = err
                         res.render('user/register', user)
                     }
-                    res.locals.curre
                     res.redirect('/')
                 })
             })
@@ -79,5 +55,23 @@ module.exports = {
     logout:(req,res)=>{
         req.logout()
         res.redirect('/')
+    },
+    loginGet:(req,res)=>{
+        res.render('user/login')
+    },
+    loginPost:(req,res)=>{
+        let reqUser = req.body
+        User.findOne({username:reqUser.username}).then(user=>{
+            if(!user||(user.hashedPassword!==encryption.generateHashedPassword(user.salt,reqUser.password))){
+                res.render('user/login',{globalError:'Username or password incorrect!'})
+                return
+            }
+            req.logIn(user,(err,user)=>{
+                if(err){
+                    console.log(err)
+                }
+                res.redirect('/')
+            })
+        })
     }
 }
