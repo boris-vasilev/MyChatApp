@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2ce48b6-d47a-404c-91cd-dca7ed7747c0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/chatroom/mychats.handlebars" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/config/routes.js" afterPath="$PROJECT_DIR$/server/config/routes.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/controllers/chatroom-controller.js" afterPath="$PROJECT_DIR$/server/controllers/chatroom-controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/controllers/user-controller.js" afterPath="$PROJECT_DIR$/server/controllers/user-controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/layouts/main.handlebars" afterPath="$PROJECT_DIR$/views/layouts/main.handlebars" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/config/database.js" afterPath="$PROJECT_DIR$/server/config/database.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,7 +30,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="chatroom-controller.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="chatroom-controller.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/controllers/chatroom-controller.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="693">
@@ -58,6 +54,18 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="database.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server/config/database.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#40#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="mychats.handlebars" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/chatroom/mychats.handlebars">
           <provider selected="true" editor-type-id="text-editor">
@@ -71,7 +79,7 @@
       <file leaf-file-name="User.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/data/User.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
+            <state relative-caret-position="-39">
               <caret line="38" column="25" lean-forward="false" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="25" />
               <folding>
                 <element signature="e#0#40#0" expanded="false" />
@@ -116,7 +124,6 @@
         <option value="$PROJECT_DIR$/public/styles/site.css" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/server/controllers/home-controller.js" />
-        <option value="$PROJECT_DIR$/server/config/database.js" />
         <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/views/user/register.handlebars" />
         <option value="$PROJECT_DIR$/server/config/express.js" />
@@ -133,6 +140,7 @@
         <option value="$PROJECT_DIR$/views/chatroom/mychats.handlebars" />
         <option value="$PROJECT_DIR$/server/config/routes.js" />
         <option value="$PROJECT_DIR$/server/controllers/chatroom-controller.js" />
+        <option value="$PROJECT_DIR$/server/config/database.js" />
       </list>
     </option>
   </component>
@@ -478,7 +486,7 @@
       <workItem from="1498942870159" duration="19000" />
       <workItem from="1498942890227" duration="210000" />
       <workItem from="1498943108689" duration="5077000" />
-      <workItem from="1498948904347" duration="26373000" />
+      <workItem from="1498948904347" duration="26673000" />
     </task>
     <task id="LOCAL-00001" summary="Added users">
       <created>1499074791882</created>
@@ -508,11 +516,18 @@
       <option name="project" value="LOCAL" />
       <updated>1499107750283</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added my chatrooms page and delete chatroom function for the chatroom creator">
+      <created>1499122520190</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1499122520190</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32569000" />
+    <option name="totallyTimeSpent" value="32869000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1932" height="1050" extended-state="0" />
@@ -567,7 +582,8 @@
     <MESSAGE value="Fully added users with login, logout, register" />
     <MESSAGE value="Added creation of chatrooms" />
     <MESSAGE value="Added chatroom invites with invite links and individual chatroom page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added chatroom invites with invite links and individual chatroom page" />
+    <MESSAGE value="Added my chatrooms page and delete chatroom function for the chatroom creator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added my chatrooms page and delete chatroom function for the chatroom creator" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1315,16 +1331,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/config/database.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#40#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server/config/settings.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
@@ -1439,16 +1445,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/data/User.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="38" column="25" lean-forward="false" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#40#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server/data/ChatRoom.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -1463,6 +1459,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="693">
           <caret line="88" column="10" lean-forward="false" selection-start-line="88" selection-start-column="10" selection-end-line="88" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/data/User.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-39">
+          <caret line="38" column="25" lean-forward="false" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/config/database.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
           <folding>
             <element signature="e#0#40#0" expanded="false" />
           </folding>

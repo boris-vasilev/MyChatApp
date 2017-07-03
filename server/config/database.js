@@ -11,12 +11,12 @@ module.exports = (settings) => {
         if (err) {
             throw err
         }
+        User.find({}).then(()=>{
+            User.seedAdminUser()
+        })
         console.log('MongoDB ready!')
     })
     db.on('error', (err) => {
         console.log(`Database error: ${err}`)
-    })
-    User.find({}).then(()=>{
-        User.seedAdminUser()
     })
 }
