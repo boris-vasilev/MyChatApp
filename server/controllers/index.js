@@ -3,7 +3,9 @@
  */
 let homeController = require('./home-controller')
 let userController = require('./user-controller')
+let chatroomController = require('./chatroom-controller')
 module.exports={
     home:homeController,
-    user:userController
+    user:userController,
+    chatroom:chatroomController
 }
