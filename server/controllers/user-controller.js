@@ -17,9 +17,7 @@ module.exports = {
     },
     registerPost:(req,res)=>{
         let reqUser = req.body
-        console.log(reqUser)
         // // Add validations!
-
         let salt = encryption.generateSalt()
         let hashedPassword = encryption.generateHashedPassword(salt, reqUser.password)
         User.findOne({username:reqUser.username}).then((user)=>{

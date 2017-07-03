@@ -1,0 +1,24 @@
+<h1>My chatrooms:</h1>
+<table>
+    <tr>
+        <th>Chatroom</th>
+        <th>Delete</th>
+    </tr>
+{{#each createdCR}}
+    <tr>
+        <td><a href="/chatroom/chat/{{this.chatroomID}}">{{this.chatroomName}}</a></td>
+        <td><a href="/chatroom/chat/{{this.chatroomID}}/delete">Delete</a></td>
+    </tr>
+{{/each}}
+</table>
+<h1>Chatrooms that I take part in:</h1>
+<table>
+    <tr>
+        <th>Chatroom</th>
+    </tr>
+    {{#each participatedCR}}
+        <tr>
+            <td><a href="/chatroom/chat/{{this.chatroomID}}">{{this.chatroomName}}</a></td>
+        </tr>
+    {{/each}}
+</table>
