@@ -26,5 +26,5 @@ module.exports = (app) => {
         }
         next()
     })
-    app.use('/public', express.static('public'))
+    app.use(express.static('public'))
 }

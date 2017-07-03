@@ -10,6 +10,14 @@ let userSchema = new mongoose.Schema({
         required: REQUIRED_VALIDATION_MESSAGE,
         unique: true
     },
+    firstName:{
+        type:String,
+        required: REQUIRED_VALIDATION_MESSAGE
+    },
+    lastName:{
+        type:String,
+        required: REQUIRED_VALIDATION_MESSAGE
+    },
     salt: {
         type: String,
         required: REQUIRED_VALIDATION_MESSAGE
@@ -27,3 +35,19 @@ userSchema.method({
 })
 let User = mongoose.model('User', userSchema)
 module.exports = User
+module.exports.seedAdminUser = ()=>{
+    User.find({}).then(users=>{
+        if(users.length===0){
+            let salt = encryption.generateSalt()
+            let hashedPassword = encryption.generateHashedPassword(salt,'eWlydGhqbzRtdzc5NTM2eTd2MzRudDg3d3lcZ0ZCV1QmdDR2OGhcbTg5MnU1bTM4djU4OTQyaiZUKiZAJF5VSlRnZnNk')
+            User.create({
+                username:'admin',
+                firstName:'admin',
+                lastName:'admin',
+                salt:salt,
+                hashedPassword:hashedPassword,
+                roles:['Admin']
+            })
+        }
+    })
+}

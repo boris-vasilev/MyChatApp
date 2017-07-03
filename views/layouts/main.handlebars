@@ -5,7 +5,7 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="/public/site.css">
+    <link rel="stylesheet" href="/styles/site.css">
     <title>MyChatApp</title>
 </head>
 <body>
@@ -15,6 +15,21 @@
             <li>About</li>
             <li>Contact us</li>
         </ul>
+        {{#if currentUser}}
+            <ul id="userPanel">
+                <li>Welcome {{currentUser.username}}</li>
+                <li>
+                    <form id = "logout-form" action="/user/logout" method="post">
+                        <a href="javascript:document.getElementById('logout-form').submit()">Logout</a>
+                    </form>
+                </li>
+            </ul>
+        {{else}}
+            <ul id="userPanel">
+                <li><a href="/user/login">Login</a></li>
+                <li><a href="/user/register">Register</a></li>
+            </ul>
+        {{/if}}
     </nav>
     <div id="container">
         {{#if globalError}}
