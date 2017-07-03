@@ -28,3 +28,11 @@ let chatroomSchema = new mongoose.Schema({
 })
 let ChatRoom = mongoose.model('ChatRoom',chatroomSchema)
 module.exports=ChatRoom
+module.exports.isParticipant = (name,arr)=>{
+    for(let participant of arr){
+        if(name === participant){
+            return true
+        }
+    }
+    return false
+}

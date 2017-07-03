@@ -1,0 +1,14 @@
+{{#chat}}
+    <h1>{{this.title}}</h1>
+    <h2>For invitation: http://localhost:1337/chatroom/chat/{{this._id}}</h2>
+    <div id="participants">
+        <ul>
+        {{#each participants}}
+            <li>{{this}}</li>
+        {{/each}}
+        </ul>
+    </div>
+    <div>
+        THIS IS THE CHAT
+    </div>
+{{/chat}}
