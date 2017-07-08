@@ -15,4 +15,5 @@ module.exports = (app) => {
     app.get('/chatroom/chat/:id', auth.isAuthenticated, controllers.chatroom.chatGet)
     app.get('/chatroom/mychats',auth.isAuthenticated,controllers.chatroom.mychatsGet)
     app.get('/chatroom/chat/:id/delete',auth.isAuthenticated,controllers.chatroom.deleteGet)
+    // app.post('/chatroom/chat/:id',auth.isAuthenticated,controllers.chatroom.chatPost)
 }

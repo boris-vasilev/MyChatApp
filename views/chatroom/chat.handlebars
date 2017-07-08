@@ -1,4 +1,9 @@
 {{#chat}}
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.0.3/socket.io.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script>
+        var socket = io()
+    </script>
     <h1>{{this.title}}</h1>
     <h2>For invitation: http://localhost:1337/chatroom/chat/{{this._id}}</h2>
     <div id="participants">
@@ -8,7 +13,19 @@
         {{/each}}
         </ul>
     </div>
-    <div>
+    <ul id = "chat">
         THIS IS THE CHAT
-    </div>
+    </ul>
+    <input type="text" id="message">
+    <button id = "send">Send message</button>
+    <script>
+        $('#send').on('click',()=>{
+            $.post('/chatroom/chat/{{this._id}}',{
+                message:$('#message').val()
+            })
+        })
+        socket.on('sent-message',(call)=>{
+            $('#chat').append(`<li>${call.user.username}: ${call.message}</li>`)
+        })
+    </script>
 {{/chat}}

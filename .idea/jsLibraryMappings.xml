@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JavaScriptLibraryMappings">
-    <file url="PROJECT" libraries="{express-DefinitelyTyped, handlebars-DefinitelyTyped, mongoose-DefinitelyTyped, node-DefinitelyTyped}" />
+    <file url="PROJECT" libraries="{express-DefinitelyTyped, handlebars-DefinitelyTyped, mongoose-DefinitelyTyped, node-DefinitelyTyped, socket.io-DefinitelyTyped, socket.io-client-DefinitelyTyped}" />
   </component>
 </project>

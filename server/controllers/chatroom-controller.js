@@ -4,6 +4,7 @@
 // const ChatRoom = require('mongoose').model('ChatRoom')
 const ChatRoom = require('../data/ChatRoom')
 const User = require('mongoose').model('User')
+const io = require('../../index')
 module.exports = {
     newGet: (req, res) => {
         res.render('chatroom/new')
@@ -58,6 +59,12 @@ module.exports = {
                 chat.save()
             }
             res.render('chatroom/chat', {chat:chat})
+        })
+    },
+    chatPost:(req,res)=>{
+        io.emit('sent-message',{
+            user:req.user,
+            message:req.body.message
         })
     },
     mychatsGet:(req,res)=>{
