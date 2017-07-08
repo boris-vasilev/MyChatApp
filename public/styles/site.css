@@ -1,0 +1,38 @@
+#chatroom{
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    overflow: auto;
+    width: 30%;
+    height: 400px;
+    position: relative;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,e5e5e5+100;White+3D */
+    background: #ffffff; /* Old browsers */
+    background: -moz-linear-gradient(top, #ffffff 0%, #e5e5e5 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #ffffff 0%,#e5e5e5 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #ffffff 0%,#e5e5e5 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e5e5e5',GradientType=0 ); /* IE6-9 */
+    padding:2%;
+}
+#participants{
+    float: left;
+    text-align: center;
+}
+#participants span{
+    font-family: Impact, Arial, sans-serif;
+    display: block;
+}
+#chat{
+    float: right;
+    /*height: 90%;*/
+    list-style-type: none;
+
+}
+#chat-head{
+    font-size: 1.5em;
+}
+#chat-form{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
