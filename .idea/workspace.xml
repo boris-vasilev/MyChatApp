@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2ce48b6-d47a-404c-91cd-dca7ed7747c0" name="Default" comment="Basic ugly styling">
+    <list default="true" id="f2ce48b6-d47a-404c-91cd-dca7ed7747c0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/chatroom/chat.handlebars" afterPath="$PROJECT_DIR$/views/chatroom/chat.handlebars" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,8 +21,8 @@
       <file leaf-file-name="chat.handlebars" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/chatroom/chat.handlebars">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="23" column="12" lean-forward="false" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+            <state relative-caret-position="536">
+              <caret line="29" column="42" lean-forward="false" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -436,7 +437,7 @@
       <workItem from="1498948904347" duration="27298000" />
       <workItem from="1499521929759" duration="6102000" />
       <workItem from="1499559630293" duration="938000" />
-      <workItem from="1499560611862" duration="46000" />
+      <workItem from="1499560611862" duration="272000" />
     </task>
     <task id="LOCAL-00001" summary="Added users">
       <created>1499074791882</created>
@@ -494,11 +495,18 @@
       <option name="project" value="LOCAL" />
       <updated>1499555987536</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Basic ugly styling">
+      <created>1499560661244</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1499560661244</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40580000" />
+    <option name="totallyTimeSpent" value="40806000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1932" height="1050" extended-state="0" />
@@ -1413,8 +1421,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/chatroom/chat.handlebars">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="23" column="12" lean-forward="false" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+        <state relative-caret-position="536">
+          <caret line="29" column="42" lean-forward="false" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
           <folding />
         </state>
       </provider>

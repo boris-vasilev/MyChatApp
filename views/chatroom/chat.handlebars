@@ -28,7 +28,7 @@
             })
         })
         socket.on('sent-message',(call)=>{
-            if(chat.room===window.location.href.split('/').pop()){
+            if(call.room===window.location.href.split('/').pop()){
                 $('#chat').append(`<li>${call.user.username}: ${call.message}</li>`)
             }
         })
