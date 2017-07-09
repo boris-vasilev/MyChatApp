@@ -11,6 +11,7 @@ module.exports={
     },
     production:{
         rootPath:rootPath,
-        port:process.env.PORT
+        port:process.env.PORT,
+	db:'mongodb://admin:admin@ds153422.mlab.com:53422/mychatapp'
     }
 }
