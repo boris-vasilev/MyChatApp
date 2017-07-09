@@ -27,6 +27,7 @@ io.on('connection',(socket)=>{
 app.post('/chatroom/chat/:id',auth.isAuthenticated,(req,res)=>{
     io.emit('sent-message',{
         user:req.user,
+        room:req.params.id,
         message:req.body.message
     })
 })
